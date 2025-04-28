@@ -13,13 +13,13 @@
 [x] Examine the benchmark helper tools to comprehend the main functions of helper tools, how they affect the class project's scope, and how they affected the original Benchmark project. Completed
 
 
-[x]  Evaluate the completion of the Project Week 2 tasks so that I can stay on course and take the second test.
+[x]  Evaluate the completion of the Project Week 2 tasks so that I can stay on course and take the second test. Completed
 
 
-[x] Create projectroadmap.md to stay in compliance with Project Week 2 tasks
+[x] Create projectroadmap.md to stay in compliance with Project Week 2 tasks Completed
 
 
-[x]  Apply features from the Mastering Markdown cheatsheet in order to stay in compliance with Project Week tasks
+[x]  Apply features from the Mastering Markdown cheatsheet in order to stay in compliance with Project Week tasks. 
 
 
 [x] Ask Professor Thomas for a change in scope in order to produce an attainable project with time and resources avaialble. 
